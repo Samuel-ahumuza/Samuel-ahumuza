@@ -5,7 +5,7 @@
 **BSIT Student @ Uganda Christian University**  
 Full-Stack Developer · Secure Infrastructure Enthusiast · Self-Hoster
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-samuelahumuza.me-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://samuelahumuza.me)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-samuelahumuza.me](https://samuelahumuza.me )-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://samuelahumuza.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samuel--ahumuza-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ahumuza-748ba5324)
 [![Medium](https://img.shields.io/badge/Medium-@samuelahumuza15-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@samuelahumuza15)
 
