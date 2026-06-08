@@ -17,7 +17,7 @@ Full-Stack Developer · Secure Infrastructure Enthusiast · Self-Hoster
 
 ## 🚀 About Me
 
-I'm a Bachelor of Science in Information Technology student at UCU, building skills across the full stack — from designing clean REST APIs to crafting responsive frontends. I care about writing code that is readable, intentional, and secure.
+I'm a Bachelor of Science in Information Technology student at UCU, building skills across the full stack from designing clean REST APIs to crafting responsive frontends. I care about writing code that is readable, intentional, and secure.
 
 - 🎓 Studying **BSIT** at Uganda Christian University (UCU)
 - 🛠️ Running a **self-hosted Nextcloud instance** at [samuelahumuza.me](https://samuelahumuza.me) because owning your data matters
