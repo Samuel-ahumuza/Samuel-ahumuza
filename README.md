@@ -20,7 +20,7 @@ Full-Stack Developer · Secure Infrastructure Enthusiast · Self-Hoster
 I'm a Bachelor of Science in Information Technology student at UCU, building skills across the full stack — from designing clean REST APIs to crafting responsive frontends. I care about writing code that is readable, intentional, and secure.
 
 - 🎓 Studying **BSIT** at Uganda Christian University (UCU)
-- 🛠️ Running a **self-hosted Nextcloud instance** at [samuelahumuza.me](https://samuelahumuza.me) — because owning your data matters
+- 🛠️ Running a **self-hosted Nextcloud instance** at [samuelahumuza.me](https://samuelahumuza.me) because owning your data matters
 - 🌱 Learning more about **backend architecture**, **DevOps**, and **system security**
 - 💬 Ask me about **Node.js**, **Express**, **MySQL**, **HTML/CSS/JS**
 - 📝 I write about dev topics on [Medium](https://medium.com/@samuelahumuza15)
@@ -72,7 +72,7 @@ A web platform for tech support and assistance services.
 ### 💰 WalletWise — Personal Finance Tracker *(Study Fork)*
 A full-stack personal finance app I forked and studied from [**@musasizi**](https://github.com/musasizi) (Musasizi Kenneth). Heavily commented throughout to explain *why* the code is written the way it is — an excellent learning resource for REST API architecture.
 
-- 🔗 **Original author:** [github.com/musasizi](https://github.com/musasizi) — all credit goes to them
+- 🔗 **Original author:** [github.com/musasizi](https://github.com/musasizi)
 - **Backend fork:** [`walletwise_api`](https://github.com/Samuel-ahumuza/walletwise_api) — Express.js · MySQL · JWT · REST API
 - **Frontend fork:** [`walletwise_ui`](https://github.com/Samuel-ahumuza/walletwise_ui) — JavaScript · HTML · CSS
 
@@ -96,18 +96,6 @@ Running a secure, self-hosted Nextcloud server for personal cloud storage and fi
 </div>
 
 
-## 📫 Get In Touch
-
-| Platform | Link |
-|----------|------|
-| 🌐 Portfolio | [samuel-ahumuza.github.io/portfolio--me](https://samuel-ahumuza.github.io/portfolio--me/) |
-| ☁️ Nextcloud | [samuelahumuza.me](https://samuelahumuza.me) |
-| 💼 LinkedIn | [samuel-ahumuza-748ba5324](https://www.linkedin.com/in/samuel-ahumuza-748ba5324) |
-| ✍️ Medium | [@samuelahumuza15](https://medium.com/@samuelahumuza15) |
-| 👨‍💻 Google Dev | [g.dev/samahumuza](https://g.dev/samahumuza) |
-| 🐙 GitHub | [@Samuel-ahumuza](https://github.com/Samuel-ahumuza) |
-
----
 
 <div align="center">
   <i>"The best way to learn is to read the code, change something small, and see what breaks."</i>
