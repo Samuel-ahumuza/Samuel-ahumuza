@@ -1,8 +1,7 @@
 <div align="center">
 
 # Hey, I'm Samuel Ahumuza 👋
-
-**BSIT Student @ Uganda Christian University**  
+ 
 Full-Stack Developer · Secure Infrastructure Enthusiast · Self-Hoster
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://samuel-ahumuza.github.io/portfolio--me/)
@@ -17,7 +16,7 @@ Full-Stack Developer · Secure Infrastructure Enthusiast · Self-Hoster
 
 ## 🚀 About Me
 
-I'm a Bachelor of Science in Information Technology student at UCU, building skills across the full stack from designing clean REST APIs to crafting responsive frontends. I care about writing code that is readable, intentional, and secure.
+Intrested in building skills across the full stack from designing clean REST APIs to crafting responsive frontends. I care about writing code that is readable, intentional, and secure.
 
 - 🎓 Studying **BSIT** at Uganda Christian University (UCU)
 - 🛠️ Running a **self-hosted Nextcloud instance** at [samuelahumuza.me](https://samuelahumuza.me) because owning your data matters
@@ -70,7 +69,7 @@ A web platform for tech support and assistance services.
 ---
 
 ### 💰 WalletWise — Personal Finance Tracker *(Study Fork)*
-A full-stack personal finance app I forked and studied from [**@musasizi**](https://github.com/musasizi) (Musasizi Kenneth). Heavily commented throughout to explain *why* the code is written the way it is — an excellent learning resource for REST API architecture.
+A full-stack personal finance app I forked and studied from [**@musasizi**](https://github.com/musasizi) (Musasizi Kenneth). Heavily commented throughout to explain *why* the code is written the way it is an excellent learning resource for REST API architecture.
 
 - 🔗 **Original author:** [github.com/musasizi](https://github.com/musasizi)
 - **Backend fork:** [`walletwise_api`](https://github.com/Samuel-ahumuza/walletwise_api) — Express.js · MySQL · JWT · REST API
@@ -87,7 +86,7 @@ Running a secure, self-hosted Nextcloud server for personal cloud storage and fi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Samuel-ahumuza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Samuel's GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Samuel-ahumuza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Samuel's GitHub Stats" /> -->
 
 <br/>
 
