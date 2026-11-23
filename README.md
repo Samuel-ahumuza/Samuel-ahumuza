@@ -55,8 +55,8 @@ Intrested in building skills across the full stack from designing clean REST API
 
 ## 📌 Featured Projects
 
-### 🌐 [Portfolio](https://samuel-ahumuza.github.io/portfolio--me/)
-My personal portfolio site showcasing my projects, skills, and background.
+### 🌐 [Portfolio](https://samuel-ahumuza.github.io/portfolio--me/)  (Not hosted at the moment 😝😝)
+My personal portfolio site showcasing my projects, skills, and background. 
 
 ---
 
